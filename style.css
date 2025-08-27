@@ -131,3 +131,49 @@ h2 {
     background-color: #0010119a;
     border-bottom: 5px #97C8EB solid;;
 }
+
+@media(max-width: 430px) {
+
+    html {
+        height: auto;
+        border: 20px #97C8EB solid;
+        display: flex;
+        flex-direction: column;
+        border: none;
+    }
+
+    body {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    h1 {
+        text-align: center;
+        margin: 10px;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button-container {
+        display: flex;
+        margin-right: 0;
+        margin-top: 10px;
+    }
+
+    button {
+        width: 200px;
+        height: 50px;
+    }
+
+    .block1 {
+        padding: 0;
+    }
+
+    .block-2 {
+        padding: 0;
+    }
+}
