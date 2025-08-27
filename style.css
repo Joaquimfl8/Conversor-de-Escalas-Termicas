@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: azure;
+    font-family: 'Russo One', sans-serif;
+}
+
+html{
+    height: 95.6%;
+    background-color: #001011;
+    border: 20px #97C8EB solid;
+}
+
+body {
+    height: 95.6%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 25px;
+    justify-self: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.block1 {
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 5px #97C8EB solid;
+    width: 400px;
+    height: 50%;
+    background: linear-gradient(#97c8eb81, #001011);
+    padding: 10px;
+}
+
+
+.block-2 {
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 5px #97C8EB solid;
+    width: 400px;
+    background: linear-gradient(#97c8eb81, #001011);
+    padding: 10px;
+}
+
+label {
+    font-size: 20px;
+    text-shadow: 2px 2px #001011;
+    text-align: center;
+}
+
+select, input{
+    font-size: 15px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px #97C8EB solid;
+    color: #001011;
+}
+
+select:hover, input:hover{
+    background-color: #ffffffc9;
+}
+
+.button-container {
+    display: flex;
+    margin-right: 450px;
+    margin-top: -80px;
+}
+
+button {
+    margin: 10px;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 5px #97C8EB solid;
+    background-color: #97c8eb7e;
+    text-shadow: 2px 2px #001011;
+    border-radius: 10px;
+    width: 430px;
+}
+
+button:hover {
+    background-color: #97c8ebc9;
+    border: 6px #97C8EB solid;
+}
+
+option {
+    color: #001011;
+}
+
+#popup {
+    border-radius: 10px;
+    justify-self: center;
+    text-align: center;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 5px #97C8EB solid;
+    width: 400px;
+    background: linear-gradient(#97c8eb81, #001011);
+    text-shadow: 2px 2px #001011;
+}
+
+#popup:hover {
+    border: 6px #97C8EB solid;
+}
+
+#resultado {
+    justify-self: center;
+    text-shadow: 2px 2px #001011;
+}
+
+h2 {
+    background-color: #0010119a;
+    border-bottom: 5px #97C8EB solid;;
+}
