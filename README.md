@@ -16,4 +16,5 @@ JavaScript;
 <img width="255" height="452" alt="image" src="https://github.com/user-attachments/assets/dddc1940-a97a-472f-a794-2797f730b074" />
 
 ### Créditos:
-Estrutura HTML e JavaScript por [Bruno Schmitz](https://github.com/BrunoSchmitz4)
+# Estrutura HTML e JavaScript: [Bruno Schmitz](https://github.com/BrunoSchmitz4)  
+# Estilização e Responsividade: Desenvolvido por mim
