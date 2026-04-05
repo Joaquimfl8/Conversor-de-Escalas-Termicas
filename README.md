@@ -2,7 +2,7 @@
 Projeto escolar de Programação Web focado em aperfeiçoar e praticar estilização CSS, utilizando uma estrutura funcional já existente em HTML e JavaScript
 
 ### Objetivos:
-Layout: Uso de flexbox para organização dos elementos
+Layout: Uso de flexbox para organização dos elementos  
 Reposividade: Uso de Media Queries para adaptação em dispositivos móveis
 
 ### Técnologias Utilizadas:
