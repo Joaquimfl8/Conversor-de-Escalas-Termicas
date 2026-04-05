@@ -3,7 +3,7 @@ Projeto escolar de Programação Web focado em aperfeiçoar e praticar estiliza�
 
 ### Objetivos:
 Layout: Uso de flexbox para organização dos elementos;  
-Reposividade: Uso de Media Queries para adaptação em dispositivos móveis;
+Responsividade: Uso de Media Queries para adaptação em dispositivos móveis;
 
 ### Técnologias Utilizadas:
 CSS;  
